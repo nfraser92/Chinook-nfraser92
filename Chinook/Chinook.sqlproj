@@ -60,5 +60,13 @@
   <ItemGroup>
     <None Include="non_usa_customers.sql" />
     <None Include="brazil_customers.sql" />
+    <None Include="brazil_customers_invoices.sql" />
+    <None Include="sales_agents.sql" />
+    <None Include="unique_invoice_countries.sql" />
+    <None Include="sales_agent_invoices.sql" />
+    <None Include="invoice_totals.sql" />
+    <None Include="total_invoices_{year}.sql" />
+    <None Include="invoice_37_line_item_count.sql" />
+    <None Include="line_items_per_invoice.sql" />
   </ItemGroup>
 </Project>
