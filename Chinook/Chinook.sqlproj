@@ -68,5 +68,22 @@
     <None Include="total_invoices_{year}.sql" />
     <None Include="invoice_37_line_item_count.sql" />
     <None Include="line_items_per_invoice.sql" />
+    <None Include="total_sales_{year}.sql" />
+    <None Include="line_item_track.sql" />
+    <None Include="line_item_track_artist.sql" />
+    <None Include="country_invoices.sql" />
+    <None Include="playlists_track_count.sql" />
+    <None Include="tracks_no_id.sql" />
+    <None Include="invoices_line_item_count.sql" />
+    <None Include="sales_agent_total_sales.sql" />
+    <None Include="top_2009_agent.sql" />
+    <None Include="top_agent.sql" />
+    <None Include="sales_agent_customer_count.sql" />
+    <None Include="sales_per_country.sql" />
+    <None Include="top_country.sql" />
+    <None Include="top_2013_track.sql" />
+    <None Include="top_5_tracks.sql" />
+    <None Include="top_3_artists.sql" />
+    <None Include="top_media_type.sql" />
   </ItemGroup>
 </Project>
